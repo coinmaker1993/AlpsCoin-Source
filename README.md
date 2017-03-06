@@ -15,7 +15,7 @@ Block reward:	10 coins
 Total coin supply:	4200000 coins
 
 
-Coinbase: "Erdogan wirft Deutschland Nazi Praktiken vor" :-)
+Coinbase: "Erdogan wirft Deutschland Nazi Praktiken vor" 
 FAZ 06/03/07 -> http://imgur.com/a/z2LHJ
 
 
