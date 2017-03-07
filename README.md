@@ -1,13 +1,15 @@
 # AlpsCoin-qt
 
-## Coin name:	AlpsCoin
-
+## AlpsCoin Cryptocurrency
+Coin name:	AlpsCoin
 Coin abbreviation:	AC
 Algorithm:	Scrypt
 Type:	PoW/PoS
 Address letter:	A
-RPC port	10992
-P2P port	10991
+RPC port:	10992
+P2P port:	10991
+
+## Reward & Info
 
 Block reward:	10 coins
 Total coin supply:	4200000 coins
