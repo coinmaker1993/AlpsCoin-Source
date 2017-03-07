@@ -21,6 +21,7 @@
 - Target timespan:	1 block
 - Transaction confirmations:	6 blocks
 
+### Creation
 
 - Coinbase: "Erdogan wirft Deutschland Nazi Praktiken vor" 
 - published on German FAZ 06/03/07 -> http://imgur.com/a/z2LHJ
