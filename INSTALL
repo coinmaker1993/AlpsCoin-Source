@@ -1,0 +1,9 @@
+Building AlpsCoin
+
+See doc/readme-qt.rst for instructions on building AlpsCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of AlpsCoin.
+
+See doc/build-*.txt for instructions on building alpscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of AlpsCoin.
