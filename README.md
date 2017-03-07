@@ -11,19 +11,30 @@
 
 ## Reward & Info
 
-Block reward:	10 coins
-Total coin supply:	4200000 coins
+- Block reward:	10 coins
+- Total coin supply:	4200000 coins
 
 
-Coinbase: "Erdogan wirft Deutschland Nazi Praktiken vor" 
-FAZ 06/03/07 -> http://imgur.com/a/z2LHJ
-PoS percentage:	5% per year
-Last PoW block:	block 10000
-Coinbase maturity:	20 blocks
-Target spacing:	64 seconds
-Target timespan:	1 block
-Transaction confirmations:	6 blocks
+- Coinbase: "Erdogan wirft Deutschland Nazi Praktiken vor" 
+- - published on German FAZ 06/03/07 -> http://imgur.com/a/z2LHJ
+-  PoS percentage:	5% per year
+- Last PoW block:	block 10000
+- Coinbase maturity:	20 blocks
+- Target spacing:	64 seconds
+- Target timespan:	1 block
+- Transaction confirmations:	6 blocks
 
-Seednodes:	
-node.walletbuilders.com
-more added soon!
+- Hardcoded Seednodes:	
+- - node.walletbuilders.com
+- - 54.89.84.43
+- - more added soon!
+
+- Additional Seeds:
+
+For syncing blockchain faster you just need to create a file named "alpscoin.conf" in your wallet data folder plus add in file following seednodes....
+
+- X.X.X.X
+- X.X.X.X
+- X.X.X.X
+- X.X.X.X
+- X.X.X.X
