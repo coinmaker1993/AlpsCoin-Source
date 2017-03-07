@@ -1,5 +1,7 @@
 # AlpsCoin-qt
-Coin name:	AlpsCoin
+
+## Coin name:	AlpsCoin
+
 Coin abbreviation:	AC
 Algorithm:	Scrypt
 Type:	PoW/PoS
