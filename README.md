@@ -12,7 +12,7 @@ Maybe it will reach some value - who know :-)
 
 ## AlpsCoin Cryptocurrency
 - Coin name:	AlpsCoin
-- Coin abbreviation:	AC
+- Coin abbreviation:	ALPS
 - Algorithm:	Scrypt
 - Type:	PoW/PoS
 - Address letter:	A
