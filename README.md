@@ -21,7 +21,7 @@
 - Target timespan:	1 block
 - Transaction confirmations:	6 blocks
 
-### Creation
+### Creation & Idea
 
 - Coinbase: "Erdogan wirft Deutschland Nazi Praktiken vor" 
 - published on German FAZ 06/03/07 -> http://imgur.com/a/z2LHJ
@@ -33,7 +33,7 @@
 - 54.89.84.43
 - more added soon!
 
-## Additional Seeds for alpscoin.conf:
+### Additional Seeds for alpscoin.conf:
 
 For syncing blockchain faster you just need to create a file named "alpscoin.conf" in your wallet data folder plus add in file following seednodes....
 
